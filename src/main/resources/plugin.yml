@@ -1,0 +1,8 @@
+name: SparkBridge2
+version: '${project.version}'
+main: cn.sparkbridge.SparkBridge2
+api-version: '1.21'
+load: STARTUP
+authors: [SparkBridge]
+description: SparkBridge是一个OneBot协议的机器人适配器，为BDS的LeviLamina模组加载器而开发，同时其内核支持分离，作为独立的Bot开发框架使用-现兼容Java插件服务端
+website: https://sparkbridge.cn/
